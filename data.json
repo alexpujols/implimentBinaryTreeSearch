@@ -1,0 +1,1202 @@
+[
+ {
+   "Index": 1,
+   "Name": "Adam Donachie",
+   "Height": 65.78,
+   "Weight": 112.99
+ },
+ {
+   "Index": 2,
+   "Name": "Paul Bako",
+   "Height": 71.52,
+   "Weight": 136.49
+ },
+ {
+   "Index": 3,
+   "Name": "Ramon Hernandez",
+   "Height": 69.4,
+   "Weight": 153.03
+ },
+ {
+   "Index": 4,
+   "Name": "Kevin Millar",
+   "Height": 68.22,
+   "Weight": 142.34
+ },
+ {
+   "Index": 5,
+   "Name": "Chris Gomez",
+   "Height": 67.79,
+   "Weight": 144.3
+ },
+ {
+   "Index": 6,
+   "Name": "Brian Roberts",
+   "Height": 68.7,
+   "Weight": 123.3
+ },
+ {
+   "Index": 7,
+   "Name": "Miguel Tejada",
+   "Height": 69.8,
+   "Weight": 141.49
+ },
+ {
+   "Index": 8,
+   "Name": "Melvin Mora",
+   "Height": 70.01,
+   "Weight": 136.46
+ },
+ {
+   "Index": 9,
+   "Name": "Aubrey Huff",
+   "Height": 67.9,
+   "Weight": 112.37
+ },
+ {
+   "Index": 10,
+   "Name": "Adam Stern",
+   "Height": 66.78,
+   "Weight": 120.67
+ },
+ {
+   "Index": 11,
+   "Name": "Jeff Fiorentino",
+   "Height": 66.49,
+   "Weight": 127.45
+ },
+ {
+   "Index": 12,
+   "Name": "Freddie Bynum",
+   "Height": 67.62,
+   "Weight": 114.14
+ },
+ {
+   "Index": 13,
+   "Name": "Nick Markakis",
+   "Height": 68.3,
+   "Weight": 125.61
+ },
+ {
+   "Index": 14,
+   "Name": "Brandon Fahey",
+   "Height": 67.12,
+   "Weight": 122.46
+ },
+ {
+   "Index": 15,
+   "Name": "Corey Patterson",
+   "Height": 68.28,
+   "Weight": 116.09
+ },
+ {
+   "Index": 16,
+   "Name": "Jay Payton",
+   "Height": 71.09,
+   "Weight": 140
+ },
+ {
+   "Index": 17,
+   "Name": "Jay Gibbons",
+   "Height": 66.46,
+   "Weight": 129.5
+ },
+ {
+   "Index": 18,
+   "Name": "Erik Bedard",
+   "Height": 68.65,
+   "Weight": 142.97
+ },
+ {
+   "Index": 19,
+   "Name": "Hayden Penn",
+   "Height": 71.23,
+   "Weight": 137.9
+ },
+ {
+   "Index": 20,
+   "Name": "Adam Loewen",
+   "Height": 67.13,
+   "Weight": 124.04
+ },
+ {
+   "Index": 21,
+   "Name": "Daniel Cabrera",
+   "Height": 67.83,
+   "Weight": 141.28
+ },
+ {
+   "Index": 22,
+   "Name": "Steve Trachsel",
+   "Height": 68.88,
+   "Weight": 143.54
+ },
+ {
+   "Index": 23,
+   "Name": "Jaret Wright",
+   "Height": 63.48,
+   "Weight": 97.9
+ },
+ {
+   "Index": 24,
+   "Name": "Kris Benson",
+   "Height": 68.42,
+   "Weight": 129.5
+ },
+ {
+   "Index": 25,
+   "Name": "Scott Williamson",
+   "Height": 67.63,
+   "Weight": 141.85
+ },
+ {
+   "Index": 26,
+   "Name": "John Parrish",
+   "Height": 67.21,
+   "Weight": 129.72
+ },
+ {
+   "Index": 27,
+   "Name": "Danys Baez",
+   "Height": 70.84,
+   "Weight": 142.42
+ },
+ {
+   "Index": 28,
+   "Name": "Chad Bradford",
+   "Height": 67.49,
+   "Weight": 131.55
+ },
+ {
+   "Index": 29,
+   "Name": "Jamie Walker",
+   "Height": 66.53,
+   "Weight": 108.33
+ },
+ {
+   "Index": 30,
+   "Name": "Brian Burres",
+   "Height": 65.44,
+   "Weight": 113.89
+ },
+ {
+   "Index": 31,
+   "Name": "Kurt Birkins",
+   "Height": 69.52,
+   "Weight": 103.3
+ },
+ {
+   "Index": 32,
+   "Name": "James Hoey",
+   "Height": 65.81,
+   "Weight": 120.75
+ },
+ {
+   "Index": 33,
+   "Name": "Sendy Rleal",
+   "Height": 67.82,
+   "Weight": 125.79
+ },
+ {
+   "Index": 34,
+   "Name": "Chris Ray",
+   "Height": 70.6,
+   "Weight": 136.22
+ },
+ {
+   "Index": 35,
+   "Name": "Jeremy Guthrie",
+   "Height": 71.8,
+   "Weight": 140.1
+ },
+ {
+   "Index": 36,
+   "Name": "A.J. Pierzynski",
+   "Height": 69.21,
+   "Weight": 128.75
+ },
+ {
+   "Index": 37,
+   "Name": "Toby Hall",
+   "Height": 66.8,
+   "Weight": 141.8
+ },
+ {
+   "Index": 38,
+   "Name": "Paul Konerko",
+   "Height": 67.66,
+   "Weight": 121.23
+ },
+ {
+   "Index": 39,
+   "Name": "Tadahito Iguchi",
+   "Height": 67.81,
+   "Weight": 131.35
+ },
+ {
+   "Index": 40,
+   "Name": "Juan Uribe",
+   "Height": 64.05,
+   "Weight": 106.71
+ },
+ {
+   "Index": 41,
+   "Name": "Alex Cintron",
+   "Height": 68.57,
+   "Weight": 124.36
+ },
+ {
+   "Index": 42,
+   "Name": "Joe Crede",
+   "Height": 65.18,
+   "Weight": 124.86
+ },
+ {
+   "Index": 43,
+   "Name": "Josh Fields",
+   "Height": 69.66,
+   "Weight": 139.67
+ },
+ {
+   "Index": 44,
+   "Name": "Ryan Sweeney",
+   "Height": 67.97,
+   "Weight": 137.37
+ },
+ {
+   "Index": 45,
+   "Name": "Brian N. Anderson",
+   "Height": 65.98,
+   "Weight": 106.45
+ },
+ {
+   "Index": 46,
+   "Name": "Luis Terrero",
+   "Height": 68.67,
+   "Weight": 128.76
+ },
+ {
+   "Index": 47,
+   "Name": "Pablo Ozuna",
+   "Height": 66.88,
+   "Weight": 145.68
+ },
+ {
+   "Index": 48,
+   "Name": "Scott Podsednik",
+   "Height": 67.7,
+   "Weight": 116.82
+ },
+ {
+   "Index": 49,
+   "Name": "Jermaine Dye",
+   "Height": 69.82,
+   "Weight": 143.62
+ },
+ {
+   "Index": 50,
+   "Name": "Darin Erstad",
+   "Height": 69.09,
+   "Weight": 134.93
+ },
+ {
+   "Index": 51,
+   "Name": "Rob Mackowiak",
+   "Height": 69.91,
+   "Weight": 147.02
+ },
+ {
+   "Index": 52,
+   "Name": "Jim Thome",
+   "Height": 67.33,
+   "Weight": 126.33
+ },
+ {
+   "Index": 53,
+   "Name": "Jerry Owens",
+   "Height": 70.27,
+   "Weight": 125.48
+ },
+ {
+   "Index": 54,
+   "Name": "Charlie Haeger",
+   "Height": 69.1,
+   "Weight": 115.71
+ },
+ {
+   "Index": 55,
+   "Name": "Heath Phillips",
+   "Height": 65.38,
+   "Weight": 123.49
+ },
+ {
+   "Index": 56,
+   "Name": "Gavin Floyd",
+   "Height": 70.18,
+   "Weight": 147.89
+ },
+ {
+   "Index": 57,
+   "Name": "Jose Contreras",
+   "Height": 70.41,
+   "Weight": 155.9
+ },
+ {
+   "Index": 58,
+   "Name": "Jon Garland",
+   "Height": 66.54,
+   "Weight": 128.07
+ },
+ {
+   "Index": 59,
+   "Name": "Javier Vazquez",
+   "Height": 66.36,
+   "Weight": 119.37
+ },
+ {
+   "Index": 60,
+   "Name": "Mark Buehrle",
+   "Height": 67.54,
+   "Weight": 133.81
+ },
+ {
+   "Index": 61,
+   "Name": "Mike MacDougal",
+   "Height": 66.5,
+   "Weight": 128.73
+ },
+ {
+   "Index": 62,
+   "Name": "David Aardsma",
+   "Height": 69,
+   "Weight": 137.55
+ },
+ {
+   "Index": 63,
+   "Name": "Andrew Sisco",
+   "Height": 68.3,
+   "Weight": 129.76
+ },
+ {
+   "Index": 64,
+   "Name": "Matt Thornton",
+   "Height": 67.01,
+   "Weight": 128.82
+ },
+ {
+   "Index": 65,
+   "Name": "Bobby Jenks",
+   "Height": 70.81,
+   "Weight": 135.32
+ },
+ {
+   "Index": 66,
+   "Name": "Boone Logan",
+   "Height": 68.22,
+   "Weight": 109.61
+ },
+ {
+   "Index": 67,
+   "Name": "Sean Tracey",
+   "Height": 69.06,
+   "Weight": 142.47
+ },
+ {
+   "Index": 68,
+   "Name": "Nick Masset",
+   "Height": 67.73,
+   "Weight": 132.75
+ },
+ {
+   "Index": 69,
+   "Name": "Jose Molina",
+   "Height": 67.22,
+   "Weight": 103.53
+ },
+ {
+   "Index": 70,
+   "Name": "Jeff Mathis",
+   "Height": 67.37,
+   "Weight": 124.73
+ },
+ {
+   "Index": 71,
+   "Name": "Mike Napoli",
+   "Height": 65.27,
+   "Weight": 129.31
+ },
+ {
+   "Index": 72,
+   "Name": "Casey Kotchman",
+   "Height": 70.84,
+   "Weight": 134.02
+ },
+ {
+   "Index": 73,
+   "Name": "Kendry Morales",
+   "Height": 69.92,
+   "Weight": 140.4
+ },
+ {
+   "Index": 74,
+   "Name": "Shea Hillenbrand",
+   "Height": 64.29,
+   "Weight": 102.84
+ },
+ {
+   "Index": 75,
+   "Name": "Robb Quinlan",
+   "Height": 68.25,
+   "Weight": 128.52
+ },
+ {
+   "Index": 76,
+   "Name": "Howie Kendrick",
+   "Height": 66.36,
+   "Weight": 120.3
+ },
+ {
+   "Index": 77,
+   "Name": "Orlando Cabrera",
+   "Height": 68.36,
+   "Weight": 138.6
+ },
+ {
+   "Index": 78,
+   "Name": "Erick Aybar",
+   "Height": 65.48,
+   "Weight": 132.96
+ },
+ {
+   "Index": 79,
+   "Name": "Dallas McPherson",
+   "Height": 69.72,
+   "Weight": 115.62
+ },
+ {
+   "Index": 80,
+   "Name": "Maicer Izturis",
+   "Height": 67.73,
+   "Weight": 122.52
+ },
+ {
+   "Index": 81,
+   "Name": "Reggie Willits",
+   "Height": 68.64,
+   "Weight": 134.63
+ },
+ {
+   "Index": 82,
+   "Name": "Tommy Murphy",
+   "Height": 66.78,
+   "Weight": 121.9
+ },
+ {
+   "Index": 83,
+   "Name": "Terry Evans",
+   "Height": 70.05,
+   "Weight": 155.38
+ },
+ {
+   "Index": 84,
+   "Name": "Gary Matthews Jr.",
+   "Height": 66.28,
+   "Weight": 128.94
+ },
+ {
+   "Index": 85,
+   "Name": "Garret Anderson",
+   "Height": 69.2,
+   "Weight": 129.1
+ },
+ {
+   "Index": 86,
+   "Name": "Vladimir Guerrero",
+   "Height": 69.13,
+   "Weight": 139.47
+ },
+ {
+   "Index": 87,
+   "Name": "Chone Figgins",
+   "Height": 67.36,
+   "Weight": 140.89
+ },
+ {
+   "Index": 88,
+   "Name": "Juan Rivera",
+   "Height": 70.09,
+   "Weight": 131.59
+ },
+ {
+   "Index": 89,
+   "Name": "John Lackey",
+   "Height": 70.18,
+   "Weight": 121.12
+ },
+ {
+   "Index": 90,
+   "Name": "Bartolo Colon",
+   "Height": 68.23,
+   "Weight": 131.51
+ },
+ {
+   "Index": 91,
+   "Name": "Kelvim Escobar",
+   "Height": 68.13,
+   "Weight": 136.55
+ },
+ {
+   "Index": 92,
+   "Name": "Dustin Moseley",
+   "Height": 70.24,
+   "Weight": 141.49
+ },
+ {
+   "Index": 93,
+   "Name": "Ervin Santana",
+   "Height": 71.49,
+   "Weight": 140.61
+ },
+ {
+   "Index": 94,
+   "Name": "Joe Saunders",
+   "Height": 69.2,
+   "Weight": 112.14
+ },
+ {
+   "Index": 95,
+   "Name": "Jered Weaver",
+   "Height": 70.06,
+   "Weight": 133.46
+ },
+ {
+   "Index": 96,
+   "Name": "Chris Resop",
+   "Height": 70.56,
+   "Weight": 131.8
+ },
+ {
+   "Index": 97,
+   "Name": "Phil Seibel",
+   "Height": 66.29,
+   "Weight": 120.03
+ },
+ {
+   "Index": 98,
+   "Name": "Justin Speier",
+   "Height": 63.43,
+   "Weight": 123.1
+ },
+ {
+   "Index": 99,
+   "Name": "Darren Oliver",
+   "Height": 66.77,
+   "Weight": 128.14
+ },
+ {
+   "Index": 100,
+   "Name": "Hector Carrasco",
+   "Height": 68.89,
+   "Weight": 115.48
+ },
+ {
+   "Index": 101,
+   "Name": "Scot Shields",
+   "Height": 64.87,
+   "Weight": 102.09
+ },
+ {
+   "Index": 102,
+   "Name": "Francisco Rodriguez",
+   "Height": 67.09,
+   "Weight": 130.35
+ },
+ {
+   "Index": 103,
+   "Name": "Greg Jones",
+   "Height": 68.35,
+   "Weight": 134.18
+ },
+ {
+   "Index": 104,
+   "Name": "Doug Mirabelli",
+   "Height": 65.61,
+   "Weight": 98.64
+ },
+ {
+   "Index": 105,
+   "Name": "Jason Varitek",
+   "Height": 67.76,
+   "Weight": 114.56
+ },
+ {
+   "Index": 106,
+   "Name": "George Kottaras",
+   "Height": 68.02,
+   "Weight": 123.49
+ },
+ {
+   "Index": 107,
+   "Name": "Kevin Youkilis",
+   "Height": 67.66,
+   "Weight": 123.05
+ },
+ {
+   "Index": 108,
+   "Name": "Dustin Pedroia",
+   "Height": 66.31,
+   "Weight": 126.48
+ },
+ {
+   "Index": 109,
+   "Name": "Alex Cora",
+   "Height": 69.44,
+   "Weight": 128.42
+ },
+ {
+   "Index": 110,
+   "Name": "Julio Lugo",
+   "Height": 63.84,
+   "Weight": 127.19
+ },
+ {
+   "Index": 111,
+   "Name": "Mike Lowell",
+   "Height": 67.72,
+   "Weight": 122.06
+ },
+ {
+   "Index": 112,
+   "Name": "Wily Mo Pe?a",
+   "Height": 70.05,
+   "Weight": 127.61
+ },
+ {
+   "Index": 113,
+   "Name": "J.D. Drew",
+   "Height": 70.19,
+   "Weight": 131.64
+ },
+ {
+   "Index": 114,
+   "Name": "Manny Ramirez",
+   "Height": 65.95,
+   "Weight": 111.9
+ },
+ {
+   "Index": 115,
+   "Name": "Brandon Moss",
+   "Height": 70.01,
+   "Weight": 122.04
+ },
+ {
+   "Index": 116,
+   "Name": "David Murphy",
+   "Height": 68.61,
+   "Weight": 128.55
+ },
+ {
+   "Index": 117,
+   "Name": "Eric Hinske",
+   "Height": 68.81,
+   "Weight": 132.68
+ },
+ {
+   "Index": 118,
+   "Name": "Coco Crisp",
+   "Height": 69.76,
+   "Weight": 136.06
+ },
+ {
+   "Index": 119,
+   "Name": "David Ortiz",
+   "Height": 65.46,
+   "Weight": 115.94
+ },
+ {
+   "Index": 120,
+   "Name": "Curt Schilling",
+   "Height": 68.83,
+   "Weight": 136.9
+ },
+ {
+   "Index": 121,
+   "Name": "Tim Wakefield",
+   "Height": 65.8,
+   "Weight": 119.88
+ },
+ {
+   "Index": 122,
+   "Name": "Josh Beckett",
+   "Height": 67.21,
+   "Weight": 109.01
+ },
+ {
+   "Index": 123,
+   "Name": "Matt Clement",
+   "Height": 69.42,
+   "Weight": 128.27
+ },
+ {
+   "Index": 124,
+   "Name": "Jonathan Papelbon",
+   "Height": 68.94,
+   "Weight": 135.29
+ },
+ {
+   "Index": 125,
+   "Name": "Kyle Snyder",
+   "Height": 67.94,
+   "Weight": 106.86
+ },
+ {
+   "Index": 126,
+   "Name": "Devern Hansack",
+   "Height": 65.63,
+   "Weight": 123.29
+ },
+ {
+   "Index": 127,
+   "Name": "Jon Lester",
+   "Height": 66.5,
+   "Weight": 109.51
+ },
+ {
+   "Index": 128,
+   "Name": "Kason Gabbard",
+   "Height": 67.93,
+   "Weight": 119.31
+ },
+ {
+   "Index": 129,
+   "Name": "Craig Hansen",
+   "Height": 68.89,
+   "Weight": 140.24
+ },
+ {
+   "Index": 130,
+   "Name": "Hideki Okajima",
+   "Height": 70.24,
+   "Weight": 133.98
+ },
+ {
+   "Index": 131,
+   "Name": "Craig Breslow",
+   "Height": 68.27,
+   "Weight": 132.58
+ },
+ {
+   "Index": 132,
+   "Name": "Manny Delcarmen",
+   "Height": 71.23,
+   "Weight": 130.7
+ },
+ {
+   "Index": 133,
+   "Name": "Brendan Donnelly",
+   "Height": 69.1,
+   "Weight": 115.56
+ },
+ {
+   "Index": 134,
+   "Name": "Javier Lopez",
+   "Height": 64.4,
+   "Weight": 123.79
+ },
+ {
+   "Index": 135,
+   "Name": "J.C. Romero",
+   "Height": 71.1,
+   "Weight": 128.14
+ },
+ {
+   "Index": 136,
+   "Name": "Joel Pineiro",
+   "Height": 68.22,
+   "Weight": 135.96
+ },
+ {
+   "Index": 137,
+   "Name": "Julian Tavarez",
+   "Height": 65.92,
+   "Weight": 116.63
+ },
+ {
+   "Index": 138,
+   "Name": "Mike Timlin",
+   "Height": 67.44,
+   "Weight": 126.82
+ },
+ {
+   "Index": 139,
+   "Name": "Nick DeBarr",
+   "Height": 73.9,
+   "Weight": 151.39
+ },
+ {
+   "Index": 140,
+   "Name": "Victor Martinez",
+   "Height": 69.98,
+   "Weight": 130.4
+ },
+ {
+   "Index": 141,
+   "Name": "Kelly Shoppach",
+   "Height": 69.52,
+   "Weight": 136.21
+ },
+ {
+   "Index": 142,
+   "Name": "Ryan Garko",
+   "Height": 65.18,
+   "Weight": 113.4
+ },
+ {
+   "Index": 143,
+   "Name": "Joe Inglett",
+   "Height": 68.01,
+   "Weight": 125.33
+ },
+ {
+   "Index": 144,
+   "Name": "Josh Barfield",
+   "Height": 68.34,
+   "Weight": 127.58
+ },
+ {
+   "Index": 145,
+   "Name": "Hector Luna",
+   "Height": 65.18,
+   "Weight": 107.16
+ },
+ {
+   "Index": 146,
+   "Name": "Jhonny Peralta",
+   "Height": 68.26,
+   "Weight": 116.46
+ },
+ {
+   "Index": 147,
+   "Name": "Andy Marte",
+   "Height": 68.57,
+   "Weight": 133.84
+ },
+ {
+   "Index": 148,
+   "Name": "Ben Francisco",
+   "Height": 64.5,
+   "Weight": 112.89
+ },
+ {
+   "Index": 149,
+   "Name": "Shin-Soo Choo",
+   "Height": 68.71,
+   "Weight": 130.76
+ },
+ {
+   "Index": 150,
+   "Name": "Franklin Gutierrez",
+   "Height": 68.89,
+   "Weight": 137.76
+ },
+ {
+   "Index": 151,
+   "Name": "Grady Sizemore",
+   "Height": 69.54,
+   "Weight": 125.4
+ },
+ {
+   "Index": 152,
+   "Name": "Jason Michaels",
+   "Height": 67.4,
+   "Weight": 138.47
+ },
+ {
+   "Index": 153,
+   "Name": "Trot Nixon",
+   "Height": 66.48,
+   "Weight": 120.82
+ },
+ {
+   "Index": 154,
+   "Name": "David Dellucci",
+   "Height": 66.01,
+   "Weight": 140.15
+ },
+ {
+   "Index": 155,
+   "Name": "Casey Blake",
+   "Height": 72.44,
+   "Weight": 136.74
+ },
+ {
+   "Index": 156,
+   "Name": "Travis Hafner",
+   "Height": 64.13,
+   "Weight": 106.11
+ },
+ {
+   "Index": 157,
+   "Name": "Paul Byrd",
+   "Height": 70.98,
+   "Weight": 158.96
+ },
+ {
+   "Index": 158,
+   "Name": "Cliff Lee",
+   "Height": 67.5,
+   "Weight": 108.79
+ },
+ {
+   "Index": 159,
+   "Name": "Jake Westbrook",
+   "Height": 72.02,
+   "Weight": 138.78
+ },
+ {
+   "Index": 160,
+   "Name": "C.C. Sabathia",
+   "Height": 65.31,
+   "Weight": 115.91
+ },
+ {
+   "Index": 161,
+   "Name": "Jeremy Sowers",
+   "Height": 67.08,
+   "Weight": 146.29
+ },
+ {
+   "Index": 162,
+   "Name": "Rafael Perez",
+   "Height": 64.39,
+   "Weight": 109.88
+ },
+ {
+   "Index": 163,
+   "Name": "Brian Slocum",
+   "Height": 69.37,
+   "Weight": 139.05
+ },
+ {
+   "Index": 164,
+   "Name": "Edward Mujica",
+   "Height": 68.38,
+   "Weight": 119.9
+ },
+ {
+   "Index": 165,
+   "Name": "Fernando Cabrera",
+   "Height": 65.31,
+   "Weight": 128.31
+ },
+ {
+   "Index": 166,
+   "Name": "Tom Mastny",
+   "Height": 67.14,
+   "Weight": 127.24
+ },
+ {
+   "Index": 167,
+   "Name": "Juan Lara",
+   "Height": 68.39,
+   "Weight": 115.23
+ },
+ {
+   "Index": 168,
+   "Name": "Fausto Carmona",
+   "Height": 66.29,
+   "Weight": 124.8
+ },
+ {
+   "Index": 169,
+   "Name": "Aaron Fultz",
+   "Height": 67.19,
+   "Weight": 126.95
+ },
+ {
+   "Index": 170,
+   "Name": "Rafael Betancourt",
+   "Height": 65.99,
+   "Weight": 111.27
+ },
+ {
+   "Index": 171,
+   "Name": "Roberto Hernandez",
+   "Height": 69.43,
+   "Weight": 122.61
+ },
+ {
+   "Index": 172,
+   "Name": "Joe Borowski",
+   "Height": 67.97,
+   "Weight": 124.21
+ },
+ {
+   "Index": 173,
+   "Name": "Matt Miller",
+   "Height": 67.76,
+   "Weight": 124.65
+ },
+ {
+   "Index": 174,
+   "Name": "Jason Davis",
+   "Height": 65.28,
+   "Weight": 119.52
+ },
+ {
+   "Index": 175,
+   "Name": "Mike Piazza",
+   "Height": 73.83,
+   "Weight": 139.3
+ },
+ {
+   "Index": 176,
+   "Name": "Jason Kendall",
+   "Height": 66.81,
+   "Weight": 104.83
+ },
+ {
+   "Index": 177,
+   "Name": "Adam Melhuse",
+   "Height": 66.89,
+   "Weight": 123.04
+ },
+ {
+   "Index": 178,
+   "Name": "Nick Swisher",
+   "Height": 65.74,
+   "Weight": 118.89
+ },
+ {
+   "Index": 179,
+   "Name": "Dan Johnson",
+   "Height": 65.98,
+   "Weight": 121.49
+ },
+ {
+   "Index": 180,
+   "Name": "Donald Murphy",
+   "Height": 66.58,
+   "Weight": 119.25
+ },
+ {
+   "Index": 181,
+   "Name": "Mark Ellis",
+   "Height": 67.11,
+   "Weight": 135.02
+ },
+ {
+   "Index": 182,
+   "Name": "Marco Scutaro",
+   "Height": 65.87,
+   "Weight": 116.23
+ },
+ {
+   "Index": 183,
+   "Name": "Bobby Crosby",
+   "Height": 66.78,
+   "Weight": 109.17
+ },
+ {
+   "Index": 184,
+   "Name": "Mark Kiger",
+   "Height": 68.74,
+   "Weight": 124.22
+ },
+ {
+   "Index": 185,
+   "Name": "Antonio Perez",
+   "Height": 66.23,
+   "Weight": 141.16
+ },
+ {
+   "Index": 186,
+   "Name": "Eric Chavez",
+   "Height": 65.96,
+   "Weight": 129.15
+ },
+ {
+   "Index": 187,
+   "Name": "Milton Bradley",
+   "Height": 68.58,
+   "Weight": 127.87
+ },
+ {
+   "Index": 188,
+   "Name": "Shannon Stewart",
+   "Height": 66.59,
+   "Weight": 120.92
+ },
+ {
+   "Index": 189,
+   "Name": "Bobby Kielty",
+   "Height": 66.97,
+   "Weight": 127.65
+ },
+ {
+   "Index": 190,
+   "Name": "Mark Kotsay",
+   "Height": 68.08,
+   "Weight": 101.47
+ },
+ {
+   "Index": 191,
+   "Name": "Ryan Goleski",
+   "Height": 70.19,
+   "Weight": 144.99
+ },
+ {
+   "Index": 192,
+   "Name": "Jeremy Brown",
+   "Height": 65.52,
+   "Weight": 110.95
+ },
+ {
+   "Index": 193,
+   "Name": "Jason Windsor",
+   "Height": 67.46,
+   "Weight": 132.86
+ },
+ {
+   "Index": 194,
+   "Name": "David Shafer",
+   "Height": 67.41,
+   "Weight": 146.34
+ },
+ {
+   "Index": 195,
+   "Name": "Joe Blanton",
+   "Height": 69.66,
+   "Weight": 145.59
+ },
+ {
+   "Index": 196,
+   "Name": "Brad Halsey",
+   "Height": 65.8,
+   "Weight": 120.84
+ },
+ {
+   "Index": 197,
+   "Name": "Dan Haren",
+   "Height": 66.11,
+   "Weight": 115.78
+ },
+ {
+   "Index": 198,
+   "Name": "Rich Harden",
+   "Height": 68.24,
+   "Weight": 128.3
+ },
+ {
+   "Index": 199,
+   "Name": "Joe Kennedy",
+   "Height": 68.02,
+   "Weight": 127.47
+ },
+ {
+   "Index": 200,
+   "Name": "Alex Pujols",
+   "Height": 71.39,
+   "Weight": 127.88
+ }
+]
