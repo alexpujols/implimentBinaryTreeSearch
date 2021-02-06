@@ -21,8 +21,13 @@ __email__ = "alex.pujols@gmail.com"
 __status__ = "Prototype"
 
 '''
-What does this code do?
-'''
+Title	      :	{TBD}
+Date		  :	{XX-XX-20XX}
+Description   :	{TBD}
+Options	      :	{TBD}
+Notes	      :	{TBD}
+''''''
+
 
 # Import modules declarations
 import string
